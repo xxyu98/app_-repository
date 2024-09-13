@@ -1,8 +1,8 @@
-import mysql from 'mysql';
+import mysql from 'mysql2';
 
 export default mysql.createPool({
   host: 'localhost',
   user: 'root',
-  password: '12345678',
+  password: 'code1007',
   database: 'codex',
 });

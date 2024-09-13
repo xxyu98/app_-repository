@@ -5,6 +5,6 @@ export default {
   JWT_EXPIRES_IN: '240h',
 
   TABLE: {
-    USER: 'cs_base',
+    USER: 'user_accounts',
   },
 };

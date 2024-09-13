@@ -5,3 +5,6 @@ node_modules
 *.yaml
 
 vue_web
+uni
+taro
+flutter_app
